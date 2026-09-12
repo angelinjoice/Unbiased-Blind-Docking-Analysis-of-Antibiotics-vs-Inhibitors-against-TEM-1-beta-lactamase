@@ -1,6 +1,5 @@
 # Unbiased Blind Docking Analysis of beta-Lactam Antibiotics vs. Mechanism-Based Inhibitors against TEM-1 Beta-Lactamase
 
-# Molecular Docking Analysis: β-Lactam Antibiotics & Inhibitors vs. TEM-1 β-Lactamase
 
 Unbiased blind molecular docking protocol and interaction analysis of Ampicillin, Amoxicillin, Tazobactam, Sulbactam, and Clavulanic Acid against TEM-1 Beta-Lactamase (PDB: 1ZG4).
 
